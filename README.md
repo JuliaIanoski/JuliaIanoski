@@ -1,26 +1,20 @@
-<h1 align="center">  Olá 👋, sou a Julia</h1>
-<h3 align="center">Economista 📊 || Analytics Enthusiast 🐳 </h3>
+# Julia Ianoski
 
+### Economista | Atuação em Análise Financeira e Dados
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juliaianoski/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  
-## 🚀 Sobre:
+Bem-vinda(o) ao meu repositório!
 
-Sou formada em Economia e atuo na área de análise financeira — uma área que sempre curti por me fazer enxergar o negócio como um todo e lidar com números de forma estratégica. Recentemente, descobri um novo interesse: análise de dados. Comecei a explorar ferramentas como SQL, Python e Power BI, e percebi como elas ampliam a forma de contar histórias com dados financeiros. Aqui no GitHub, compartilho alguns projetos em que tento juntar o melhor dos dois mundos: raciocínio analítico e contexto de negócio.
+Atuo na área de Planejamento e Análise Financeira (FP&A), com experiência em construção de indicadores, análise de cenários, orçamento e controle financeiro. Tenho interesse em soluções baseadas em dados para apoio à tomada de decisão, combinando raciocínio analítico com entendimento do negócio.
 
+Neste espaço, compartilho projetos desenvolvidos com ferramentas como Power BI, SQL e Python, aplicados a contextos reais de análise financeira. O objetivo é demonstrar minha capacidade de estruturar dados, gerar insights e construir visões estratégicas claras.
 
+## Principais tópicos trabalhados
 
-## ✨ Nos momentos offline, costumo estar:
-- 🏋️‍♀️ Na academia buscando o balde
-- 🎧 Saindo com meus amigos e curtindo uma boa música
-- 📽️ Assistindo às minhas séries favoritas ☺️
+- Análise de dados aplicados à área financeira
+- Desenvolvimento de dashboards
+- Construção de indicadores de performance
 
-
-
-## 🛠️ Tech Stack:
+## Ferramentas que utilizo
 
 <p align="left">
   <code><img height="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" alt="Power BI"></code>
@@ -32,11 +26,18 @@ Sou formada em Economia e atuo na área de análise financeira — uma área que
   <code><img height="30" src="https://github.com/JuliaIanoski/TESTE/blob/main/sql.png?raw=true" alt="SQL"></code>
 </p>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+### Entre em contato
 
-  <summary><b>⚡ Github Stats</b></summary>
+  <a href="https://www.linkedin.com/in/juliaianoski/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+
+
+
+
+  ### <summary><b>Github Stats</b></summary>
   
-<i> Note:</i>  Isso não representa meu nível de habilidade, apenas uma visão geral dos commits.
+<i> Nota:</i>  Isso não representa meu nível de habilidade, apenas uma visão geral dos commits.
 
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaIanoski&show_icons=true&locale=pt-br&hide_border=true)
 >
